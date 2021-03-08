@@ -35,3 +35,6 @@ Colloboration development of a web-application on Symphony 5
   - Economics and Trade Management
 - Courses on the Sololearn platform
   - https://www.sololearn.com/Profile/4553240
+
+### English
+A2 (Pre-Intermediate) 
